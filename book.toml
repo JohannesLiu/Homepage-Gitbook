@@ -4,3 +4,10 @@ language = "en"
 multilingual = false
 src = "src"
 title = "\"Johannes's Gitbook\""
+
+[output.html]
+show_sidebar = false
+
+
+[output.html]
+additional-css = ["disable-sidebar.css"]
