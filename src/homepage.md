@@ -4,7 +4,7 @@
  * @email: iexkliu@gmail.com
  * @github: https://github.com/johannesliu
  * @Date: 2023-07-10 20:33:15
- * @LastEditTime: 2023-07-11 00:49:08
+ * @LastEditTime: 2023-07-11 00:55:06
  * @motto: Still water run deep
  * @Description: Modify here please
  * @FilePath: \homepage-gitbook\src\homepage.md
@@ -23,4 +23,3 @@ In the past, Johannes has finished 3 books, They are:
 (3) Knowledge Extraction (To be uploaded)  
 
 You are welcome to read them and comments on them.
-
