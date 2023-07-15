@@ -29,12 +29,17 @@
         "expandable-chapters",
         "copy-code-button",
         "search-plus",
+        "hide-published-with",
         "page-copyright"
     ],
     "pluginsConfig": {
         "github": {
             "url": "https://github.com/JohannesLiu"
         },
+        "theme-default": {
+            "showLevel": false
+        },
+        "hide-published-with": {},
         "github-buttons": {
             "buttons": [{
                 "user": "JohannesLiu",
